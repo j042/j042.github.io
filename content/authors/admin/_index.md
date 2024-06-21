@@ -106,8 +106,11 @@ skills:
 
 languages:
   - name: Korean
+    percent: 100
   - name: English
+    percent: 99
   - name: German
+    percent: 99
 
 ---
 
