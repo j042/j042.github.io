@@ -105,12 +105,9 @@ skills:
         icon: cog
 
 languages:
+  - name: Korean
   - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: German
 
 ---
 
