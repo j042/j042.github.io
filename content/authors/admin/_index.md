@@ -46,6 +46,7 @@ interests:
   - High Performance Computing
   - Computational Engineering
   - Deep Generative Modeling
+  - Visualization
 
 education:
   - area: Dr.techn. candinate - Mechanical Engineering
