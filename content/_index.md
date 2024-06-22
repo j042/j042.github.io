@@ -30,4 +30,14 @@ sections:
           size: cover
           position: center
           parallax: false
+
+  - block: collection
+    id: publications
+    content:
+      title: Publications
+      filters:
+        folders:
+          - publication
+      design:
+        view: citation
 ---
