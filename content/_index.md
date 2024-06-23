@@ -38,6 +38,15 @@ sections:
       filters:
         folders:
           - publication
-      design:
-        view: citation
+    design:
+      view: citation
+  - block: collection
+    content:
+      title: Projects
+      filters:
+        folders:
+          - project
+    design:
+      view: article-grid
+      columns: 3
 ---

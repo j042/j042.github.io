@@ -10,4 +10,4 @@ tags:
   - Optimization
 ---
 
-tataratat is a github organization for hosting open source tools for computational analysis to encourage transparent collaboration and re-usability.
+Organization for open-source computational analysis tools.
