@@ -11,7 +11,7 @@ last_name: Lee
 
 # Status emoji
 status:
-  icon: 
+  icon:
 
 # Is this the primary user of the site?
 superuser: true
@@ -47,7 +47,7 @@ interests:
   - Visualization
 
 education:
-  - area: Dr.techn. candinate - Mechanical Engineering
+  - area: Dr.techn. candidate - Mechanical Engineering
     institution: TU Wien
     date_start: 2021-10-01
     date_end: ''
@@ -95,7 +95,7 @@ skills:
       - name: Isogemetric / Finite Elemene Analysis (IGA/FEA)
         description: ''
         icon: calculator
-      - name: Deep Generative Modeling 
+      - name: Deep Generative Modeling
         description: ''
         icon: cpu-chip
       - name: Shape Optimization

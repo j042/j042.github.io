@@ -7,7 +7,6 @@ authors:
 tags:
   - C++/Python
   - k-d tree
-  - 
 ---
 
 Multi-threaded python wrapping of c++11 header-only k-d tree, [nanoflann](https://github.com/jlblancoc/nanoflann).
