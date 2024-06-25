@@ -11,7 +11,7 @@ last_name: Lee
 
 # Status emoji
 status:
-  icon: 
+  icon:
 
 # Is this the primary user of the site?
 superuser: true
@@ -37,8 +37,6 @@ profiles:
     url: https://github.com/j042
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/jaewooklee042
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-9321-4176
 
@@ -49,7 +47,7 @@ interests:
   - Visualization
 
 education:
-  - area: Dr.techn. candinate - Mechanical Engineering
+  - area: Dr.techn. candidate - Mechanical Engineering
     institution: TU Wien
     date_start: 2021-10-01
     date_end: ''
@@ -58,17 +56,17 @@ education:
     institution: RWTH Aachen
     date_start: 2018-04-01
     date_end: 2020-09-30
-    summary: ''
+    summary: ERASMUS+ scholarship for research visit to TU Wien
   - area: B.Sc. Mechanical Engineering (Maschinenbau)
     institution: TU Darmstadt
     date_start: 2014-07-01
     date_end: 2016-02-28
-    summary: ''
+    summary: DAAD TU Darmstadt Semester Scholarship
   - area: B.S. Mechanical Engineering
     institution: Virginia Tech
     date_start: 2011-08-01
     date_end: 2015-05-15
-    summary: ''
+    summary: Dean's List, member of ASME
 
 work:
   - position: Research Project Assistant
@@ -97,7 +95,7 @@ skills:
       - name: Isogemetric / Finite Elemene Analysis (IGA/FEA)
         description: ''
         icon: calculator
-      - name: Deep Generative Modeling 
+      - name: Deep Generative Modeling
         description: ''
         icon: cpu-chip
       - name: Shape Optimization
