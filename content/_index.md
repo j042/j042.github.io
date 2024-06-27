@@ -43,6 +43,7 @@ sections:
   - block: collection
     content:
       title: Projects
+      count: 0
       filters:
         folders:
           - project
