@@ -12,6 +12,7 @@ sections:
   - block: collection
     content:
       title: Selected Projects
+      count: 0
       text: Here are a selection of projects that I have worked on over the years.
       filters:
         folders:

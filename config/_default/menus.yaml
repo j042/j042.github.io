@@ -7,12 +7,6 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: Publications
-    url: publication/
-    weight: 11
-  - name: Experience
+  - name: Résumé
     url: experience/
     weight: 20
-  - name: Projects
-    url: projects/
-    weight: 30
