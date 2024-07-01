@@ -47,17 +47,17 @@ interests:
   - Visualization
 
 education:
-  - area: Dr.techn. candidate - Mechanical Engineering
+  - area: Dr.techn. Computational Engineering (candidate)
     institution: TU Wien
     date_start: 2021-10-01
     date_end: ''
-    summary: ''
-  - area: M.Sc. Automation Engineering (Automatisierungstechnik)
+    summary: 'Research visits: RWTH Aachen, TU Delft'
+  - area: M.Sc. Automation Engineering
     institution: RWTH Aachen
     date_start: 2018-04-01
     date_end: 2020-09-30
     summary: ERASMUS+ scholarship for research visit to TU Wien
-  - area: B.Sc. Mechanical Engineering (Maschinenbau)
+  - area: B.Sc. Mechanical Engineering
     institution: TU Darmstadt
     date_start: 2014-07-01
     date_end: 2016-02-28
@@ -83,13 +83,28 @@ work:
     date_start: 2019-01-01
     date_end: 2020-08-31
     summary: ''
+  - position: Military Service (Compulsory)
+    company_name: Republic of Korea Army
+    company_url: ''
+    date_start: 2016-06-15
+    date_end: 2018-03-15
+    summary: ''
+  - position: Internship
+    company_name: STEAG Energy Service GmbH
+    company_url: ''
+    company_logo: ''
+    date_start: 2015-07-01
+    date_end: 2015-09-30
+    summary: ''
+
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: C/C++, Python, Fortran
+      - name: C++/C, Python, Fortran
         description: ''
         icon: code-bracket
       - name: Isogemetric / Finite Elemene Analysis (IGA/FEA)
