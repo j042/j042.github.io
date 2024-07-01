@@ -42,6 +42,15 @@ sections:
       view: citation
   - block: collection
     content:
+      title: Talks
+      text: ""
+      filters:
+        folders:
+          - talks
+    design:
+      view: citation
+  - block: collection
+    content:
       title: Projects
       count: 0
       filters:
