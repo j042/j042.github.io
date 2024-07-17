@@ -60,4 +60,13 @@ sections:
       view: article-grid
       fill_image: false
       columns: 3
+  - block: collection
+    content:
+      title: Advised Theses
+      text: ""
+      filters:
+        folders:
+          - advised_theses
+    design:
+      view: citation
 ---
