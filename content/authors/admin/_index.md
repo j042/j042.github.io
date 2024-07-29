@@ -51,22 +51,33 @@ education:
     institution: TU Wien
     date_start: 2021-10-01
     date_end: ''
-    summary: 'Research visits: RWTH Aachen, TU Delft'
+    summary: |
+      - Coursework: Parallel Programming, Isogeometric Analysis
+      - Research visits: RWTH Aachen, TU Delft
   - area: M.Sc. Automation Engineering
     institution: RWTH Aachen
     date_start: 2018-04-01
     date_end: 2020-09-30
-    summary: 'Research visit: TU Wien, ERASMUS+ scholarship'
+    summary: |
+      - Thesis: Development of Geometric Filter using Neural Network for Shape Optimization
+      - Coursework: Machine Learning, Computer Vision, Software Engineering, Embedded Systems, Mechatronics, Process Control, Advanced Control Theory
+      - Research visit: TU Wien (ERASMUS+ scholarship)
   - area: B.Sc. Mechanical Engineering
     institution: TU Darmstadt
     date_start: 2014-07-01
     date_end: 2016-02-28
-    summary: DAAD TU Darmstadt Semester Scholarship
+    summary: |
+      - Dual-degree program, selected as one of six Virginia Tech students.
+      - Thesis: Dynamic Simulation of Solar Thermal Power Plant
+      - Coursework: Aerodynamics, Automotive Engineering, Control Theory
+      - Scholarship: DAAD TU Darmstadt Semester Scholarship
   - area: B.S. Mechanical Engineering
     institution: Virginia Tech
     date_start: 2011-08-01
     date_end: 2015-05-15
-    summary: Dean's List, member of ASME
+    summary: |
+      - Coursework: Linear Algebra, Analysis, Mechanics, Fluid Mechanics, German
+      - Cum Laude, Dean's List, member of ASME
 
 work:
   - position: Research Project Assistant
@@ -110,10 +121,10 @@ skills:
       - name: Isogemetric / Finite Elemene Analysis (IGA/FEA)
         description: ''
         icon: calculator
-      - name: Deep Generative Modeling
+      - name: Machine Learning / Deep Generative Modeling
         description: ''
         icon: cpu-chip
-      - name: Shape Optimization
+      - name: Numerical Optimization
         description: ''
         icon: cog
 
@@ -121,12 +132,12 @@ languages:
   - name: Korean
     percent: 100
   - name: English
-    percent: 99
+    percent: 90
   - name: German
-    percent: 99
+    percent: 90
 
 ---
 
 ## About Me
 
-I am a computational engineer and part of the research group Numerical Analysis and Design Methods at ILSB, TU Wien. My research focuses on solving strongly coupled multiphysics problems using spline-based methods and deep generative modeling of high fidelity simulation results, as well as geometries.
+Multi-disciplinary engineer with backgrounds in computational, automation, and mechanical engineering. Currently, I am part of the research group Numerical Analysis and Design Methods at ILSB, TU Wien. My research focuses on solving strongly coupled multiphysics problems using spline-based methods and deep generative modeling of high fidelity simulation results, as well as geometries.
